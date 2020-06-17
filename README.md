@@ -12,3 +12,4 @@ This script allows the user to explore data related to bike share systems for th
 
 ## Credits
 Udacity Data Science Nanodegree 2020
+[Pandas documentation](https://pandas.pydata.org/pandas-docs/stable/index.html)
