@@ -45,7 +45,7 @@ def get_filters():
         if CITY_DATA.get(city.lower()) is None and isny == False:
             print("Sorry, we're not sure which City you want data for, please check the spelling and try again")
 
-    print("Great, you've chosen " + city.title() + " as your City of interest.")
+    print("Great, you've chosen {} as your City of interest.".format(city.title()))
 
     #Requesting month of interest
     need_month = True
