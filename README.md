@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+17th June 2020
 
-### Project Title
-Replace the Project Title
+# Computation of descriptive statistics for US bikeshare data
+
 
 ### Description
 Describe what your project is about and what it does
