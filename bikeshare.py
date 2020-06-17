@@ -35,6 +35,7 @@ def get_filters():
         if CITY_DATA.get(city) is not None:
             need_city = False
 
+        #Adding special treatment for 'New York City' so it also accepts 'New York'
         if city == "new york":
             userinput = input("Did you mean New York City?: ").lower()
             if userinput == "yes" or userinput == "y":
